@@ -1,0 +1,14 @@
+table
+{
+    border: 2px solid rebeccapurple;
+}
+th
+{
+border: 2px solid royalblue;
+padding: 5%;
+}
+td{
+    border: 2px solid deepskyblue;
+    padding-right: 5%;
+}
+
